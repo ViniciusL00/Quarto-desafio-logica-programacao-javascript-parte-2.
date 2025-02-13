@@ -1,5 +1,5 @@
-# logica-js-projeto_inicial-2-desafio4
- Desafio 4 de logica de programação com javascript.
+# quarto-desafio-logica-programacao-javascript-parte-2.
+ Quarto desafio de logica de programação com JavaScript parte 2.
 
 1. Crie uma lista vazia, com o nome listaGenerica.
 
